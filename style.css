@@ -1,0 +1,36 @@
+
+
+#general{
+background: url(imatges/1.jpg);
+background-size: cover;
+background-attachment: fixed;
+}
+
+#inici {
+background: url(imatges/japann.jpg);
+background-position:center;
+background-size: cover;
+background-attachment: fixed;
+background-repeat: no-repeat;
+}
+
+#myScrollspy{  
+position: fixed;
+margin-top: 20px;
+margin-left: -30px;
+}
+
+button{
+font-family: Calibri;
+display: block;
+margin-left: 47%;
+margin-right: 50%;   
+}
+
+#titol{
+font-family: Calibri;
+margin-left: 35%;
+margin-top: 24%;
+margin-right: 10%;  
+    
+}
